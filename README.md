@@ -1,0 +1,2 @@
+# Emoji
+Emoji in Python
